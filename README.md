@@ -55,4 +55,4 @@ This application is used to create download files for releases. To do this, use 
 The application Ya3dag_minizip is based on
 
   MiniZip 1.01b, demo of zLib + Zip package written by Gilles Vollant
-  more info at [http://www.winimage.com/zLibDll/minizip.html]()
+  more info [here](http://www.winimage.com/zLibDll/minizip.html).
