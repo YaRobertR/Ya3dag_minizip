@@ -29,7 +29,7 @@ This application is used to create download files for releases. To do this, use 
 
 - Download the latest release from my [releases page](https://github.com/YaRobertR/Ya3dag_minizip/releases)
 
-- See the 'Example' directory for an executable and examble files
+- See the 'Create-New-Release' directory for an executable and an example files
 
 #### Examples
 
