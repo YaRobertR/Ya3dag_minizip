@@ -1,8 +1,6 @@
 # Temporary subdirectories for compilation
 /Debug/
 /Release/
-
-# Lokal collection of downloads
 /Downloads/
 
 # Compiled Object files
